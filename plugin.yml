@@ -1,0 +1,6 @@
+name: Vengeance
+version: 2.0.0
+description: Allows players to consume gunpowder and then explode on death
+author: AlphaAtom
+website: http://mattcol.es
+main: net.alphaatom.vengeance.Vengeance

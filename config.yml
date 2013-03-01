@@ -1,0 +1,6 @@
+explosionSize: 4 #The size of the explosion, values above 5 are not recommended and 4 is TNT sized
+vengeanceDuration: 300 #The time in seconds that the effect lasts for
+vengeanceItem: 289 #The item that is consumed to enable the effect
+allow-explosion-on-suicide: false #When false, disables the explosion if the player died via suicide
+no-damage: false #When true, the explosion does no damage to players/blocks.
+consumptions-stack: true #When true, the effect lasts longer the more a user consumes
